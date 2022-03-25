@@ -14,9 +14,9 @@
 Η έναρξη της υλοποίησης πραγματοποιήθηκε με την έρευνα και αναζήτηση του κατάλληλου υλικού. Ειδικότερα εντοπίσαμε σε ένα guide-thread πληροφορίες για το στήσιμο της
 συνάρτησης TTS, που κάνει χρήση του Microsoft Win32 SAPI. Ενδεικτικά, παραθέτουμε τον σχολιασμένο κώδικα μετά από την μελέτη που του κάναμε.
 
-![screen1](https://github.com/speechanalysis/SpeechAnalysis/blob/main/screen1.png)
+![screen1](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/screen1.png)
 
-![screen2](https://github.com/speechanalysis/SpeechAnalysis/blob/main/screen2.png)
+![screen2](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/screen2.png)
 
 **Υλοποίηση του TTS κομματιού με την δημιουργία του κατάλληλου UI**
 
@@ -24,15 +24,15 @@
 μετά να εκτελεί την TTS συνάρτηση. Επίσης, έγινε η αρχή δημιουργίας ενός dialog box που θα ζητάει από τον χρήστη εάν θέλει να αποθηκεύσει το παραγόμενο ηχητικό ή όχι.
 Παραθέτουμε screenshots από την μέχρι τώρα πρόοδο μαζί με τον κώδικα.
 
-![screen3](https://github.com/speechanalysis/SpeechAnalysis/blob/main/screen3.png)
+![screen3](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/screen3.png)
 
-![screen4](https://github.com/speechanalysis/SpeechAnalysis/blob/main/screen4.png)
+![screen4](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/screen4.png)
 
 Αυτά είναι τα dialog boxes που έχουμε φτιάξει. Το ένα είναι όταν δημιουργείται το ηχητικό από τη συνάρτηση TTS να ζητάει να το αποθηκεύσει και το δεύτερο είναι από το 
 convert button που ζητάει από τον χρήστη να να κάνει upload ένα txt αρχείο για να το κάνει μετατροπή σε συμβολοσειρά.
 O κώδικας που έχουμε γράψει μέχρι τώρα, δύο callback functions για το πάτημα των κουμπιών με τον εξής κώδικα:
 
-![screen5](https://github.com/speechanalysis/SpeechAnalysis/blob/main/screen5.png)
+![screen5](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/screen5.png)
 
 Το μόνο πράγμα που αλλάζει για το convert του txt είναι ότι αντί να πάρει σαν είσοδο το κείμενο που θα δώσει ο χρήστης απευθείας από το γραφικό περιβάλλον, θα πάρει 
 σαν είσοδο το κείμενο που θα δώσει ο χρήστης από το dialog box και με την εντολή fscanf θα το μετατρέψει σε συμβολοσειρά.
