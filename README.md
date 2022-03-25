@@ -37,7 +37,7 @@ O κώδικας που έχουμε γράψει μέχρι τώρα, δύο ca
 Το μόνο πράγμα που αλλάζει για το convert του txt είναι ότι αντί να πάρει σαν είσοδο το κείμενο που θα δώσει ο χρήστης απευθείας από το γραφικό περιβάλλον, θα πάρει 
 σαν είσοδο το κείμενο που θα δώσει ο χρήστης από το dialog box και με την εντολή fscanf θα το μετατρέψει σε συμβολοσειρά.
 
-[Checkpoint 1 PDF](https://github.com/speechanalysis/SpeechAnalysis/blob/main/%CE%A0%CE%91%CE%A1%CE%91%CE%94%CE%9F%CE%A4%CE%95%CE%9F%201.pdf)
+[Checkpoint 1 PDF](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/%CE%A0%CE%91%CE%A1%CE%91%CE%94%CE%9F%CE%A4%CE%95%CE%9F%201.pdf)
 
 ## Checkpoint 2 1/4/2022
 
