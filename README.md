@@ -93,6 +93,10 @@ wav2vec, το οποίο εκπαιδεύτηκε χρησιμοποιώντας
   
 ![wav2vec4](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/wav2vec4.png)
 
+![wav2vec5](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/wav2vec5.png)
+
+![wav2vec6](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/wav2vec6.png)
+
 
   
 ## Checkpoint 3 15/4/2022
