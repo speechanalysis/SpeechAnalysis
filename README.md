@@ -40,6 +40,10 @@ O κώδικας που έχουμε γράψει μέχρι τώρα, δύο ca
 [Checkpoint 1 PDF](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/%CE%A0%CE%91%CE%A1%CE%91%CE%94%CE%9F%CE%A4%CE%95%CE%9F%201.pdf)
 
 ## Checkpoint 2 1/4/2022
+Όσο αφορά το 2ο Παραδοτέο, ερχόμενοι από την ολοκληρωμένη υλοποίηση της λειτουργίας Text-To-Speech(TTS), εστιάσαμε στη σύνταξη κώδικα για την αντίστροφη λειτουργία
+Speech-To-Text(STT) καθώς και το αντίστοιχο GUI Button αυτής.
+
+![stt](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/stt.png)
 
 ## Checkpoint 3 15/4/2022
 
