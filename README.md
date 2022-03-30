@@ -50,6 +50,7 @@ Speech-To-Text(STT) καθώς και το αντίστοιχο GUI Button αυ�
 **Υλοποίηση του STT κομματιού με την δημιουργία του κατάλληλου UI**
 
 [Mathworks link](https://uk.mathworks.com/matlabcentral/fileexchange/103525-wav2vec-2-0)
+
 Συγκεκριμένα δημιουργήθηκαν 2 buttons. Το πρώτο εκτελεί την λειτουργία Record του
 ηχητικού input(με τη χρήση Record GUI Button μέσω App Designer) και εμφάνιση
 αντίστοιχων dialog boxes για την ενημέρωση του χρήστη ως προς το recording
