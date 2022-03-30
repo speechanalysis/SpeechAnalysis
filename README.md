@@ -97,6 +97,21 @@ wav2vec, το οποίο εκπαιδεύτηκε χρησιμοποιώντας
 
 ![wav2vec6](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/wav2vec6.png)
 
+• Το τέταρτο και τελευταίο στάδιο ονομάζεται Text Decoding και όπως λέει και το
+  όνομα εδώ γίνεται αποκωδικοποίηση στην τελική μορφή του κειμένου. Το μοντέλο
+  είναι εκπαιδευμένο χρησιμοποιώντας connectionist temporal classification (CTC).
+  
+![wav2vec7](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/wav2vec7.png)
+
+**Gaussian Error Linear Unit(GELU) Activation**
+
+![wav2vec8](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/wav2vec8.png)
+
+Με την ολοκλήρωση της ηχογράφησης(unpressed button state), εμφανίζεται το αντίστοιχο
+dialog box που προτρέπει τον χρήστη να αποθηκεύσει το ηχητικό input ως αρχείο wav.
+Με το button Speech To Text ο χρήστης έχει τη δυνατότητα να μετατρέψει το περιεχόμενο
+του σήματος από το wav αρχείο σε μορφή κειμένου txt.
+
 
   
 ## Checkpoint 3 15/4/2022
