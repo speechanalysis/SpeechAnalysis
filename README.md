@@ -60,6 +60,14 @@ state(start/stop) καθώς και ερώτημα για την αποθήκε�
 wav2vec, το οποίο εκπαιδεύτηκε χρησιμοποιώντας το [LibriSpeech dataset](https://paperswithcode.com/dataset/librispeech) και αποτελείται
 από 4 στάδια:
 
+![wav2vec1](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/wav2vec1.png)
+
+• Το πρώτο ονομάζεται Feature Encoder όπου το ηχητικό αρχείο εισόδου διέρχεται
+  μέσα από 7 σύστροφα μπλόκς μιας διάστασης. Το πρώτο μπλοκ περιέχει ένα
+  επίπεδο κανονικοποίησης μεταξύ του σύστροφου μπλοκ και της συνάρτησης
+  Gaussian Error Linear Units (GELU). Η έξοδος των σύστροφων μπλόκς διέρχεται
+  πάλι από ένα στρώμα κανονικοποίησης πριν περάσουν από το γραμμικό επίπεδο.
+  
 ## Checkpoint 3 15/4/2022
 
 ## Checkpoint 4 6/5/2022
