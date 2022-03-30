@@ -112,8 +112,14 @@ dialog box που προτρέπει τον χρήστη να αποθηκεύσ
 Με το button Speech To Text ο χρήστης έχει τη δυνατότητα να μετατρέψει το περιεχόμενο
 του σήματος από το wav αρχείο σε μορφή κειμένου txt.
 
+*Παραθέτουμε screenshots από την μέχρι τώρα πρόοδο:*
 
-  
+![recbutton](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/recbutton.png)
+
+![recstart](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/recstart.png)
+
+![recsave](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/recsave.png)
+
 ## Checkpoint 3 15/4/2022
 
 ## Checkpoint 4 6/5/2022
