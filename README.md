@@ -47,6 +47,18 @@ Speech-To-Text(STT) καθώς και το αντίστοιχο GUI Button αυ�
 
 ![app](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/app.png)
 
+**Υλοποίηση του STT κομματιού με την δημιουργία του κατάλληλου UI**
+
+[Mathworks link](https://uk.mathworks.com/matlabcentral/fileexchange/103525-wav2vec-2-0)
+Συγκεκριμένα δημιουργήθηκαν 2 buttons. Το πρώτο εκτελεί την λειτουργία Record του
+ηχητικού input(με τη χρήση Record GUI Button μέσω App Designer) και εμφάνιση
+αντίστοιχων dialog boxes για την ενημέρωση του χρήστη ως προς το recording
+state(start/stop) καθώς και ερώτημα για την αποθήκευση ή μη της εισόδου σε αρχείο wav.
+Το δεύτερο button εστιάζει στη μετατροπή του παραπάνω αποθηκευμένου ηχητικού σε
+κείμενο και αποθήκευση αυτού σε txt αρχείο. Πραγματοποιείται εφαρμογή του μοντέλου
+wav2vec, το οποίο εκπαιδεύτηκε χρησιμοποιώντας το LibriSpeech dataset και αποτελείται
+από 4 στάδια:
+
 ## Checkpoint 3 15/4/2022
 
 ## Checkpoint 4 6/5/2022
