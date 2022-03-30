@@ -45,6 +45,8 @@ Speech-To-Text(STT) καθώς και το αντίστοιχο GUI Button αυ�
 
 ![stt](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/stt.png)
 
+![app](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/app.png)
+
 ## Checkpoint 3 15/4/2022
 
 ## Checkpoint 4 6/5/2022
