@@ -120,7 +120,7 @@ dialog box που προτρέπει τον χρήστη να αποθηκεύσ
 
 ![recsave](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/recsave.png)
 
-[Checkpoint 2 PDF]()
+[Checkpoint 2 PDF](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/%CE%A0%CE%91%CE%A1%CE%91%CE%94%CE%9F%CE%A4%CE%95%CE%9F%202.pdf)
 
 ## Checkpoint 3 15/4/2022
 
