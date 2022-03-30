@@ -127,7 +127,7 @@ dialog box που προτρέπει τον χρήστη να αποθηκεύσ
 ## Checkpoint 4 (6/5/2022)
 
 ### Github Repository
-[Αρχεία Κώδικα](in progress)
+[Αρχεία Κώδικα](https://github.com/speechanalysis/Speechanalysis/tree/main/code)
 
 ### Youtube Video
 [in progress]
