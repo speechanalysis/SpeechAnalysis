@@ -7,7 +7,7 @@
 
 [Open E-Class Thread](https://opencourses.ionio.gr/modules/forum/viewtopic.php?course=DDI119&topic=2169&forum=3246)
 
-## Checkpoint 1 18/3/2022
+## Checkpoint 1 (18/3/2022)
 Όσο αφορά το 1ο Παραδοτέο, αρχικά, εξοικειωθήκαμε περαιτέρω με το Matlab και τις δυνατότητες που προσφέρει, ερχόμενοι από απο τυπική μελέτη της χρήσης του Octave.
 Στη συνέχεια, επηρεασμένοι από την θεωρητική ύλη του μαθήματος το ενδιαφέρον μας επικεντρώθηκε στο στήσιμο μιας εφαρμογής που θα συνδυάζει λειτουργίες όπως
 **Text-To-Speech(TTS)** και **Speech-To-Text(STT)**. Θεωρήσαμε πως θα αποβεί ένα ιδιαίτερα χρήσιμο εργαλείο για άτομα που παρουσιάζουν προβλήματα ομιλίας και όρασης.
@@ -39,7 +39,7 @@ O κώδικας που έχουμε γράψει μέχρι τώρα, δύο ca
 
 [Checkpoint 1 PDF](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/%CE%A0%CE%91%CE%A1%CE%91%CE%94%CE%9F%CE%A4%CE%95%CE%9F%201.pdf)
 
-## Checkpoint 2 1/4/2022
+## Checkpoint 2 (1/4/2022)
 Όσο αφορά το 2ο Παραδοτέο, ερχόμενοι από την ολοκληρωμένη υλοποίηση της λειτουργίας Text-To-Speech(TTS), εστιάσαμε στη σύνταξη κώδικα για την αντίστροφη λειτουργία
 Speech-To-Text(STT) καθώς και το αντίστοιχο GUI Button αυτής.
 
@@ -122,9 +122,9 @@ dialog box που προτρέπει τον χρήστη να αποθηκεύσ
 
 [Checkpoint 2 PDF](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/%CE%A0%CE%91%CE%A1%CE%91%CE%94%CE%9F%CE%A4%CE%95%CE%9F%202.pdf)
 
-## Checkpoint 3 15/4/2022
+## Checkpoint 3 (15/4/2022)
 
-## Checkpoint 4 6/5/2022
+## Checkpoint 4 (6/5/2022)
 
 ### Github Repository
 [Αρχεία Κώδικα](in progress)
