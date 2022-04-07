@@ -158,7 +158,7 @@ Y = fullyconnect(X,params.fc.Weights,params.fc.Bias,DataFormat="CB");
         % See section 3.1 of [1].
 
         % Multi-Head Attention
-        xa = multiheadAttention(X',params.multiheadAttention);
+        xa = multiheadAttention(X,params.multiheadAttention);
 
         % Add & Norm
         X = X + xa;
