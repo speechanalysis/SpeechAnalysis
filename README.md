@@ -131,7 +131,7 @@ button), αυξομείωσης της έντασης αναπαραγωγής(V
 
 **Σχεδιασμός και μορφή του κατάλληλου GUI για το audio player**
 
-![audioplayer]()
+![audioplayer](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/audioplayer.png)
 
 Για την υλοποίηση του play/push button σε συνδυασμό με την τιμή του Volume Slider, έγινε χρήση του [dsp.AudioFileReader](https://www.mathworks.com/help/dsp/ref/dsp.audiofilereader-system-object.html) για να διαβάσουμε δεδομένα από το αρχείο ήχου και [audioDeviceWriter](https://www.mathworks.com/help/audio/ref/audiodevicewriter-system-object.html) για την αναπαραγωγή του ηχητικού, γράφοντας τα ηχητικά δείγματα στην συσκευή εξόδου. Ως 
 αποτέλεσμα αποφεύχθηκε η επανεκκίνηση του αρχείου που αναπαράγεται κάθε φορά με την χρήση του audioplayer αφού έτσι κάθε φορά χρειάζεται να ξαναπαίξει το audio απο το 
@@ -145,19 +145,19 @@ audio, δηλαδή, audio = app.AFR();. Επίσης,για να παιχτεί
 
 **Ο κώδικας του Play/Pause button**
 
-![playbutton]()
+![playbutton](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/playbutton.png)
 
 **Ο κώδικας του Upload file button**
 
-![uploadbutton]()
+![uploadbutton](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/uploadbutton.png)
 
 **Ο κώδικας του Stop button**
 
-![stopbutton]()
+![stopbutton](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/stopbutton.png)
 
 **Η μορφή της εφαρμογής μέχρι τώρα**
 
-![app]()
+![app](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/app.png)
 
 ## Checkpoint 4 (6/5/2022)
 
