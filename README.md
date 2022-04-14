@@ -45,7 +45,7 @@ Speech-To-Text(STT) καθώς και το αντίστοιχο GUI Button αυ�
 
 ![stt](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/stt.png)
 
-![app](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/app.png)
+
 
 **Υλοποίηση του STT κομματιού με την δημιουργία του κατάλληλου UI**
 
