@@ -19,7 +19,8 @@ function RecordButtonValueChanged(app, event)
                 % dhmioyrgia enos dialog box poy rwtaei ton xrhsth an 8elei
                 %na apo8hkeysei ston diskoto hxhtiko arxeio poy exei dhmioyrgh8ei
 
-                    if answer == 'Yes', audiowrite('samplerec.wav',x,fs); end
+                    if answer == 'Yes' && app.wavCheckBox.Value, audiowrite('samplerec.wav',x,fs); end
+                    if answer == 'Yes' && app.flacCheckBox.Value, audiowrite('samplerec.wav',x,fs); end 
                     %ean h apanthsh einai Yes tote apouhkeyse to hxhtiko
                     %wav ston disko
             end       
