@@ -4,7 +4,9 @@
 
 _The complete speech analysis tool_
 
-**Demo**:
+#### Οδηγίες Χρήσης:
+
+**Λειτουργία Record**:
 
 ![record](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/record.gif)
 
@@ -25,7 +27,19 @@ _The complete speech analysis tool_
 *
 *
 
-[Download]()
+### Ελάχιστες απαιτήσεις συστήματος:
+
+OS: Windows 7 SP1+
+
+Processor: SSE2 instruction set support
+
+Memory: 1 GB RAM
+
+DirectX: Version 10
+
+Storage: 250 MB available space
+
+[Λήψη εφαρμογής]()
 
 ### Credits:
 
