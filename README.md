@@ -1,5 +1,34 @@
 # Speech Analysis Project
 
+**About**:
+
+_The complete speech analysis tool_
+
+**Demo**:
+
+![record]()
+
+## Features
+
+* Δυναμική μετατροπή Text-To-Speech μέσω πληκτρολόγησης κειμένου ή χρήσης αρχείου text.
+
+* Προσαρμόσιμες τιμές pace και Fs για την παραγωγή αρχείου ομιλίας.
+
+* Μετατροπή Speech-To-Text ηχητικού σήματος σε αρχείο text
+
+* User-friendly σχεδίαση GUI εφαρμογής.
+
+* Ηχογράφηση ομιλίας και αποθήκευση ως wav ή flac αρχείο.
+
+* Ενσωματωμένο Audio Player για αναπαραγωγή ηχητικών αρχείων και ηχογραφήσεων.
+*
+*
+*
+
+[Download]()
+
+### Credits:
+
 #### Authors: 
 [Alexandros Vythoulkas](https://github.com/AlexandrosV20) Π2013021
 
