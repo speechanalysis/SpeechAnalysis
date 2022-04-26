@@ -1,19 +1,24 @@
 # Speech Analysis Project
 
+(logo)
+
 **About**:
 
 _The complete speech analysis tool_
 
-#### [1] Οδηγίες Χρήσης:
-### [2]Ελάχιστες απαιτήσεις συστήματος:
-### Credits:
+<sup><a href="#1">Λειτουργίες</a></sup>
+  
+<sup><a href="#2">Οδηγίες Χρήσης</a></sup>
 
+<sup><a href="#3">Ελάχιστες απαιτήσεις συστήματος</a></sup>
 
-**Λειτουργία Record**:
+<sup><a href="#4">Λήψη εφαρμογής</a></sup>
 
-![record](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/record.gif)
+<sup><a href="#5">Credits</a></sup>
 
-## Features
+##### [1]
+
+### Λειτουργίες
 
 * Δυναμική μετατροπή Text-To-Speech μέσω πληκτρολόγησης κειμένου ή χρήσης αρχείου text.
 
@@ -26,32 +31,32 @@ _The complete speech analysis tool_
 * Ηχογράφηση ομιλίας και αποθήκευση ως wav ή flac αρχείο.
 
 * Ενσωματωμένο Audio Player για αναπαραγωγή ηχητικών αρχείων και ηχογραφήσεων.
-*
-*
-*
+
+##### [2]
+
+### Οδηγίες Χρήσης:
+
+**Λειτουργία Record**:
+
+![record](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/record.gif)
+
+##### [3]
 
 ### Ελάχιστες απαιτήσεις συστήματος:
 
-OS: Windows 7 SP1+
+**OS**: Windows 7 SP1+
 
-Processor: SSE2 instruction set support
+**Processor**: SSE2 instruction set support
 
-Memory: 1 GB RAM
+**Memory**: 1 GB RAM
 
-DirectX: Version 10
+**DirectX**: Version 10
 
-Storage: 250 MB available space
+**Storage**: 250 MB available space
+
+##### [4]
 
 [Λήψη εφαρμογής]()
-
-### Credits:
-
-#### Authors: 
-[Alexandros Vythoulkas](https://github.com/AlexandrosV20) Π2013021
-
-[Apostolos Kamplionis](https://github.com/apostoloskp) Π2015121
-
-[Open E-Class Thread](https://opencourses.ionio.gr/modules/forum/viewtopic.php?course=DDI119&topic=2169&forum=3246)
 
 ## Checkpoint 1 (18/3/2022)
 Όσο αφορά το 1ο Παραδοτέο, αρχικά, εξοικειωθήκαμε περαιτέρω με το Matlab και τις δυνατότητες που προσφέρει, ερχόμενοι από απο τυπική μελέτη της χρήσης του Octave.
@@ -208,6 +213,17 @@ audio, δηλαδή, audio = app.AFR();. Επίσης,για να παιχτεί
 [Checkpoint 3 PDF](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/%CE%A0%CE%91%CE%A1%CE%91%CE%94%CE%9F%CE%A4%CE%95%CE%9F%203.pdf)
 
 ## Checkpoint 4 (6/5/2022)
+
+##### [5]
+
+### Credits:
+
+#### Authors: 
+[Alexandros Vythoulkas](https://github.com/AlexandrosV20) Π2013021
+
+[Apostolos Kamplionis](https://github.com/apostoloskp) Π2015121
+
+[Open E-Class Thread](https://opencourses.ionio.gr/modules/forum/viewtopic.php?course=DDI119&topic=2169&forum=3246)
 
 ### Github Repository
 [Αρχεία Κώδικα](https://github.com/speechanalysis/Speechanalysis/tree/main/code)
