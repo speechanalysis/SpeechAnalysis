@@ -6,7 +6,7 @@ _The complete speech analysis tool_
 
 **Demo**:
 
-![record]()
+![record](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/record.gif)
 
 ## Features
 
