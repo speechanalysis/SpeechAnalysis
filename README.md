@@ -237,7 +237,7 @@ x
 
 [Open E-Class Thread](https://opencourses.ionio.gr/modules/forum/viewtopic.php?course=DDI119&topic=2169&forum=3246)
 
-### Github Repository
+### Github Repository 🗃️
 [Αρχεία Κώδικα](https://github.com/speechanalysis/Speechanalysis/tree/main/code)
 
 ### Youtube Video 📹
