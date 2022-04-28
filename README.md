@@ -12,9 +12,9 @@ _The complete speech analysis tool_
 
 <sup><a href="#3">Ελάχιστες απαιτήσεις συστήματος</a></sup>
 
-<sup><a href="#4">Λήψη εφαρμογής</a></sup>
+<sup><a href="#4">Credits</a></sup>
 
-<sup><a href="#5">Credits</a></sup>
+[Λήψη εφαρμογής]()
 
 ##### [1]
 
@@ -61,10 +61,6 @@ _The complete speech analysis tool_
 **Network**: Broadband Internet connection
 
 **Additional Notes**: At least one audio recording device, e.g. microphone, USB headset recommended
-
-##### [4]
-
-[Λήψη εφαρμογής]()
 
 ## Checkpoint 1 (18/3/2022)
 Όσο αφορά το 1ο Παραδοτέο, αρχικά, εξοικειωθήκαμε περαιτέρω με το Matlab και τις δυνατότητες που προσφέρει, ερχόμενοι από απο τυπική μελέτη της χρήσης του Octave.
@@ -222,7 +218,7 @@ audio, δηλαδή, audio = app.AFR();. Επίσης,για να παιχτεί
 
 ## Checkpoint 4 (6/5/2022)
 
-##### [5]
+##### [4]
 
 ### Credits:
 
