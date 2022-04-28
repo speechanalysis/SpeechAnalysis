@@ -60,8 +60,6 @@ _The complete speech analysis tool_
 
 **Storage**: 250 MB available space
 
-**Network**: Broadband Internet connection
-
 **Additional Notes**: At least one audio recording device, e.g. microphone, USB headset recommended
 
 ##### [4]
