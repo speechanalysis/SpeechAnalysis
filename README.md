@@ -243,5 +243,5 @@ x
 ### Youtube Video
 [in progress]
 
-### Βιβλιογραφία
+### Βιβλιογραφία 📖
 [Mathworks - Deep Learning - wav2vec](https://github.com/matlab-deep-learning/wav2vec-2.0) [1]
