@@ -16,6 +16,8 @@ _The complete speech analysis tool_
 
 <sup><a href="#4">Credits</a></sup>
 
+<sup><a href="#5">Checkpoints</a></sup>
+
 ##### [1]
 
 ### Λειτουργίες
@@ -61,6 +63,10 @@ _The complete speech analysis tool_
 **Network**: Broadband Internet connection
 
 **Additional Notes**: At least one audio recording device, e.g. microphone, USB headset recommended
+
+##### [5]
+
+### Checkpoints
 
 ## Checkpoint 1 (18/3/2022)
 Όσο αφορά το 1ο Παραδοτέο, αρχικά, εξοικειωθήκαμε περαιτέρω με το Matlab και τις δυνατότητες που προσφέρει, ερχόμενοι από απο τυπική μελέτη της χρήσης του Octave.
