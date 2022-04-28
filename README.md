@@ -1,6 +1,6 @@
 # Speech Analysis Project
 
-![logo](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/logo.png)
+![logo](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/logofinal.png)
 
 **About**:
 
