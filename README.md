@@ -218,7 +218,7 @@ audio, δηλαδή, audio = app.AFR();. Επίσης,για να παιχτεί
 
 **Η μορφή της εφαρμογής μέχρι τώρα**
 
-![app](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/app.png)
+![appv1](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/appv1.png)
 
 [Checkpoint 3 PDF](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/%CE%A0%CE%91%CE%A1%CE%91%CE%94%CE%9F%CE%A4%CE%95%CE%9F%203.pdf)
 
