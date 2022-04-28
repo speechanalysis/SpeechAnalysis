@@ -36,9 +36,15 @@ _The complete speech analysis tool_
 
 ### Οδηγίες Χρήσης:
 
+**Λειτουργία Text-To-Speech**:
+
+**Λειτουργία Speech-To-Text**:
+
 **Λειτουργία Record**:
 
 ![record](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/record.gif)
+
+**Audio Player**:
 
 ##### [3]
 
