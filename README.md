@@ -1,6 +1,6 @@
 # Speech Analysis Project
 
-(logo)
+![logo]()
 
 **About**:
 
