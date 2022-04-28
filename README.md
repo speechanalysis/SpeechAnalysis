@@ -4,7 +4,7 @@
 
 [Λήψη εφαρμογής]()
 
-ℹ️ **About**:
+### About ℹ️
 
 _The complete speech analysis tool_
 
