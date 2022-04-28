@@ -18,7 +18,7 @@ _The complete speech analysis tool_
 
 ##### [1]
 
-### Λειτουργίες 📑
+### Λειτουργίες
 
 * Δυναμική μετατροπή Text-To-Speech μέσω πληκτρολόγησης κειμένου ή χρήσης αρχείου text.
 
@@ -34,7 +34,7 @@ _The complete speech analysis tool_
 
 ##### [2]
 
-### Οδηγίες Χρήσης:
+### Οδηγίες Χρήσης 📑
 
 **Λειτουργία Text-To-Speech**:
 
