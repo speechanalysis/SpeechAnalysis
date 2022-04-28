@@ -228,7 +228,7 @@ x
 
 ##### [5]
 
-### Credits:
+### Credits ✍️
 
 #### Authors: 
 [Alexandros Vythoulkas](https://github.com/AlexandrosV20) Π2013021
