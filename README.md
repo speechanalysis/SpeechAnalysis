@@ -16,7 +16,7 @@ _The complete speech analysis tool_
 
 <sup><a href="#4">Checkpoints</a></sup>
 
-<sup><a href="#5">CreditsCheckpoints</a></sup>
+<sup><a href="#5">Credits</a></sup>
 
 ##### [1]
 
