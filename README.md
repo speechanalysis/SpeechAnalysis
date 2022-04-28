@@ -6,6 +6,8 @@
 
 _The complete speech analysis tool_
 
+[Λήψη εφαρμογής]()
+
 <sup><a href="#1">Λειτουργίες</a></sup>
   
 <sup><a href="#2">Οδηγίες Χρήσης</a></sup>
@@ -13,8 +15,6 @@ _The complete speech analysis tool_
 <sup><a href="#3">Ελάχιστες απαιτήσεις συστήματος</a></sup>
 
 <sup><a href="#4">Credits</a></sup>
-
-[Λήψη εφαρμογής]()
 
 ##### [1]
 
