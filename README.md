@@ -228,9 +228,9 @@ x
 
 ##### [5]
 
-### Credits ✍️
+### Credits
 
-#### Authors: 
+#### Authors ✍️
 [Alexandros Vythoulkas](https://github.com/AlexandrosV20) Π2013021
 
 [Apostolos Kamplionis](https://github.com/apostoloskp) Π2015121
@@ -240,7 +240,7 @@ x
 ### Github Repository
 [Αρχεία Κώδικα](https://github.com/speechanalysis/Speechanalysis/tree/main/code)
 
-### Youtube Video
+### Youtube Video 📹
 [in progress]
 
 ### Βιβλιογραφία 📖
