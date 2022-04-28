@@ -14,9 +14,9 @@ _The complete speech analysis tool_
 
 <sup><a href="#3">Ελάχιστες απαιτήσεις συστήματος</a></sup>
 
-<sup><a href="#4">Credits</a></sup>
+<sup><a href="#4">Checkpoints</a></sup>
 
-<sup><a href="#5">Checkpoints</a></sup>
+<sup><a href="#5">CreditsCheckpoints</a></sup>
 
 ##### [1]
 
@@ -64,7 +64,7 @@ _The complete speech analysis tool_
 
 **Additional Notes**: At least one audio recording device, e.g. microphone, USB headset recommended
 
-##### [5]
+##### [4]
 
 ### Checkpoints
 
@@ -224,7 +224,7 @@ audio, δηλαδή, audio = app.AFR();. Επίσης,για να παιχτεί
 
 ## Checkpoint 4 (6/5/2022)
 
-##### [4]
+##### [5]
 
 ### Credits:
 
