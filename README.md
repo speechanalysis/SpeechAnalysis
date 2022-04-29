@@ -243,5 +243,7 @@ x
 
 ### Βιβλιογραφία 📖
 [Mathworks - Text To Speech](https://www.mathworks.com/matlabcentral/fileexchange/18091-text-to-speech) [1]
+
 [Microsoft speech api](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/ms720151(v=vs.85)) [2]
+
 [Mathworks - Deep Learning - wav2vec](https://github.com/matlab-deep-learning/wav2vec-2.0) [3]
