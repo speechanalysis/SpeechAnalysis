@@ -166,7 +166,7 @@ wav2vec, το οποίο εκπαιδεύτηκε χρησιμοποιώντας
 
 ![wav2vec8](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/wav2vec8.png)
 
-**Οι πληροφορίες για τα παραπάνω πάρθηκαν απο τον οργανισμό [Mathworks](https://github.com/matlab-deep-learning/wav2vec-2.0) [1]**.
+**Οι πληροφορίες για τα παραπάνω πάρθηκαν απο τον οργανισμό [Mathworks - wav2vec](https://github.com/matlab-deep-learning/wav2vec-2.0) [3]**.
 
 Με την ολοκλήρωση της ηχογράφησης(unpressed button state), εμφανίζεται το αντίστοιχο
 dialog box που προτρέπει τον χρήστη να αποθηκεύσει το ηχητικό input ως αρχείο wav.
