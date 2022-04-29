@@ -6,7 +6,7 @@
 
 ### About ℹ️
 
-_The complete speech analysis tool_
+_Application for Text To Speech and Speech To Text_
 
 <sup><a href="#1">Λειτουργίες</a></sup>
   
