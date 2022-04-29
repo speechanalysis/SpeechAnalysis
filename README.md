@@ -70,8 +70,8 @@ _The complete speech analysis tool_
 Όσο αφορά το 1ο Παραδοτέο, αρχικά, εξοικειωθήκαμε περαιτέρω με το Matlab και τις δυνατότητες που προσφέρει, ερχόμενοι από απο τυπική μελέτη της χρήσης του Octave.
 Στη συνέχεια, επηρεασμένοι από την θεωρητική ύλη του μαθήματος το ενδιαφέρον μας επικεντρώθηκε στο στήσιμο μιας εφαρμογής που θα συνδυάζει λειτουργίες όπως
 **Text-To-Speech(TTS)** και **Speech-To-Text(STT)**. Θεωρήσαμε πως θα αποβεί ένα ιδιαίτερα χρήσιμο εργαλείο για άτομα που παρουσιάζουν προβλήματα ομιλίας και όρασης.
-Η έναρξη της υλοποίησης πραγματοποιήθηκε με την έρευνα και αναζήτηση του κατάλληλου υλικού. Ειδικότερα εντοπίσαμε σε ένα guide-thread πληροφορίες για το στήσιμο της
-συνάρτησης TTS, που κάνει χρήση του Microsoft Win32 SAPI. Ενδεικτικά, παραθέτουμε τον σχολιασμένο κώδικα μετά από την μελέτη που του κάναμε.
+Η έναρξη της υλοποίησης πραγματοποιήθηκε με την έρευνα και αναζήτηση του κατάλληλου υλικού. Ειδικότερα για το [Text To Speech](https://www.mathworks.com/matlabcentral/fileexchange/18091-text-to-speech) [1] εντοπίσαμε σε ένα guide-thread πληροφορίες για το στήσιμο της
+συνάρτησης TTS, που κάνει χρήση του [Microsoft Win32 SAPI](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/ms720151(v=vs.85)) [2]. Ενδεικτικά, παραθέτουμε τον σχολιασμένο κώδικα μετά από την μελέτη που του κάναμε.
 
 ![screen1](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/screen1.png)
 
@@ -242,4 +242,6 @@ x
 [in progress]
 
 ### Βιβλιογραφία 📖
-[Mathworks - Deep Learning - wav2vec](https://github.com/matlab-deep-learning/wav2vec-2.0) [1]
+[Mathworks - Text To Speech](https://www.mathworks.com/matlabcentral/fileexchange/18091-text-to-speech) [1]
+[Microsoft speech api](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/ms720151(v=vs.85)) [2]
+[Mathworks - Deep Learning - wav2vec](https://github.com/matlab-deep-learning/wav2vec-2.0) [3]
