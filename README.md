@@ -1,4 +1,4 @@
-# Speech Analysis Project
+# Speech And Sound Processing Project
 
 ![logo](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/logofinal.png)
 
