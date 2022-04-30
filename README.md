@@ -192,7 +192,7 @@ button), αυξομείωσης της έντασης αναπαραγωγής(V
 
 ![audioplayer](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/audioplayer.png)
 
-Για την υλοποίηση του play/push button σε συνδυασμό με την τιμή του Volume Slider, έγινε χρήση του [dsp.AudioFileReader](https://www.mathworks.com/help/dsp/ref/dsp.audiofilereader-system-object.html) [4] για να διαβάσουμε δεδομένα από το αρχείο ήχου και [audioDeviceWriter](https://www.mathworks.com/help/audio/ref/audiodevicewriter-system-object.html) [5] για την αναπαραγωγή του ηχητικού, γράφοντας τα ηχητικά δείγματα στην συσκευή εξόδου. Ως 
+Για την υλοποίηση του play/push button σε συνδυασμό με την τιμή του Volume Slider, έγινε χρήση του **[dsp.AudioFileReader](https://www.mathworks.com/help/dsp/ref/dsp.audiofilereader-system-object.html) [4]** για να διαβάσουμε δεδομένα από το αρχείο ήχου και **[audioDeviceWriter](https://www.mathworks.com/help/audio/ref/audiodevicewriter-system-object.html) [5]** για την αναπαραγωγή του ηχητικού, γράφοντας τα ηχητικά δείγματα στην συσκευή εξόδου. Ως 
 αποτέλεσμα αποφεύχθηκε η επανεκκίνηση του αρχείου που αναπαράγεται κάθε φορά με την χρήση του audioplayer αφού έτσι κάθε φορά χρειάζεται να ξαναπαίξει το audio απο το 
 σημείο που έμεινε με την νέα τιμή του value. Στη συνέχεια, κάνουμε μια επανάληψη while για όσο δεν έχει τελειώσει το ηχητικό που έχουμε εκχωρήσει στο αντικείμενο 
 app.AFR και το flag μας έχει την τιμή true. Ενώ τρέχει το while για κάθε επανάληψη καλούμε το αντικείμενο app.AFR σαν να είναι συνάρτηση και εκχωρούμε την τιμή στο 
