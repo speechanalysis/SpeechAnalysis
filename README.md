@@ -5,7 +5,7 @@
 
 ### About ℹ️
 
-_Application for Text To Speech and Speech To Text_
+_An application for Text To Speech and Speech To Text conversion_
 
 <sup><a href="#1">Λειτουργίες</a></sup>
   
