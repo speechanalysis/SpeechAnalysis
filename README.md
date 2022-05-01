@@ -2,8 +2,6 @@
 
 ![logo](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/logofinal.png)
 
-[Λήψη εφαρμογής]()
-
 ### About ℹ️
 
 _The complete app for Text-To-Speech and Speech-To-Text conversion_
@@ -17,6 +15,8 @@ _The complete app for Text-To-Speech and Speech-To-Text conversion_
 <sup><a href="#4">Checkpoints</a></sup>
 
 <sup><a href="#5">Credits</a></sup>
+
+[Λήψη εφαρμογής]()
 
 ##### [1]
 
