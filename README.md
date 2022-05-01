@@ -1,4 +1,4 @@
-# Speech And Sound Processing Project
+# speech.io
 
 ![logo](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/logofinal.png)
 
