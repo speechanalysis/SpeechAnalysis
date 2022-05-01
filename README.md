@@ -6,7 +6,7 @@
 
 ### About ℹ️
 
-_Application for Text To Speech and Speech To Text_
+_The complete app for Text-To-Speech and Speech-To-Text conversion_
 
 <sup><a href="#1">Λειτουργίες</a></sup>
   
