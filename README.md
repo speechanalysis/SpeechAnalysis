@@ -119,6 +119,8 @@ state(start/stop) καθώς και ερώτημα για την αποθήκε�
 wav2vec, το οποίο εκπαιδεύτηκε χρησιμοποιώντας το [LibriSpeech dataset](https://paperswithcode.com/dataset/librispeech) και αποτελείται
 από 4 στάδια:
 
+![wav2vec_model](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/wav2vec_model.png)
+
 ![wav2vec1](https://github.com/speechanalysis/speechanalysis/blob/main/screenshots/wav2vec1.png)
 
 • Το πρώτο ονομάζεται Feature Encoder όπου το ηχητικό αρχείο εισόδου διέρχεται
