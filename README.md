@@ -14,6 +14,8 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 [Open E-Class Thread](https://opencourses.ionio.gr/modules/forum/viewtopic.php?course=DDI119&topic=2169&forum=3246)
 
+## Ενότητες:
+
 <sup><a href="#1">Λειτουργίες</a></sup>
   
 <sup><a href="#2">Οδηγίες Χρήσης</a></sup>
