@@ -66,9 +66,11 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 **Memory**: 1 GB RAM
 
-**Storage**: 250 MB available space
+**Storage**: 766 MB available space for installation
 
 **Additional Notes**: At least one audio recording device, e.g. microphone, USB headset recommended
+
+*Internet connection required for downloading the Matlab Runtime Compiler if not already installed*
 
 ##### [4]
 
