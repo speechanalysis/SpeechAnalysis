@@ -73,7 +73,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 * Επιλογή **Next** και αναμονή για εγκατάσταση(ή και λήψη) των απαραίτητων πακέτων της εφαρμογής
 
-![install5](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/install4.png)
+![install5](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/install5.png)
 
 ![]()
 
