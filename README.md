@@ -66,7 +66,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 ![install2](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/install2.png)
 
-*
+* Στην περίπτωσή μας το Matlab Runtime είναι ήδη εγκατεστημένο(Αυτόματη λήψη σε αντίθετη περίπτωση)
 
 ![install3](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/install3.png)
 
