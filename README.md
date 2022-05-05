@@ -7,6 +7,13 @@
 
 _An application for Text-To-Speech and Speech-To-Text conversion_
 
+#### Authors ✍️
+[Alexandros Vythoulkas](https://github.com/AlexandrosV20) Π2013021
+
+[Apostolos Kamplionis](https://github.com/apostoloskp) Π2015121
+
+[Open E-Class Thread](https://opencourses.ionio.gr/modules/forum/viewtopic.php?course=DDI119&topic=2169&forum=3246)
+
 <sup><a href="#1">Λειτουργίες</a></sup>
   
 <sup><a href="#2">Οδηγίες Χρήσης</a></sup>
@@ -230,13 +237,6 @@ x
 ##### [5]
 
 ### Credits
-
-#### Authors ✍️
-[Alexandros Vythoulkas](https://github.com/AlexandrosV20) Π2013021
-
-[Apostolos Kamplionis](https://github.com/apostoloskp) Π2015121
-
-[Open E-Class Thread](https://opencourses.ionio.gr/modules/forum/viewtopic.php?course=DDI119&topic=2169&forum=3246)
 
 ### Github Repository 🗃️
 [Αρχεία Κώδικα](https://github.com/speechanalysis/Speechanalysis/tree/main/code)
