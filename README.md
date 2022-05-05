@@ -3,16 +3,16 @@
 
 ![logo](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/logofinal.png)
 
+### About ℹ️
+
+_An application for Text-To-Speech and Speech-To-Text conversion_
+
 #### Authors ✍️
 [Alexandros Vythoulkas](https://github.com/AlexandrosV20) Π2013021
 
 [Apostolos Kamplionis](https://github.com/apostoloskp) Π2015121
 
 [Open E-Class Thread](https://opencourses.ionio.gr/modules/forum/viewtopic.php?course=DDI119&topic=2169&forum=3246)
-
-### About ℹ️
-
-_An application for Text-To-Speech and Speech-To-Text conversion_
 
 <sup><a href="#1">Λειτουργίες</a></sup>
   
