@@ -58,23 +58,43 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 *
 
-*
+![]()
 
 *
 
-*
+![]()
 
 *
 
-*
+![]()
 
 *
 
-*
+![]()
 
 *
 
+![]()
+
 *
+
+![]()
+
+*
+
+![]()
+
+*
+
+![]()
+
+*
+
+![]()
+
+*
+
+![]()
 
 ##### [3]
 
