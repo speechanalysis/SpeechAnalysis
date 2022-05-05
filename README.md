@@ -18,9 +18,11 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 <sup><a href="#1">Λειτουργίες</a></sup>
 
-<sup><a href="#2">Ελάχιστες απαιτήσεις συστήματος</a></sup>
+<sup><a href="#2">Εγκατάσταση εφαρμογής</a></sup>
 
-<sup><a href="#3">Checkpoints</a></sup>
+<sup><a href="#3">Ελάχιστες απαιτήσεις συστήματος</a></sup>
+
+<sup><a href="#4">Checkpoints</a></sup>
 
 [Λήψη εφαρμογής](https://drive.google.com/file/d/1uFH_Bs45B_hl2G5TtFAjPyUVdpYI8Y2S/view?usp=sharing)
 
@@ -52,6 +54,30 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 ##### [2]
 
+### Εγκατάσταση εφαρμογής:
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+##### [3]
+
 ### Ελάχιστες απαιτήσεις συστήματος:
 
 **OS**: Windows 7 SP1+
@@ -66,7 +92,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 *Internet connection required for downloading the Matlab Runtime Compiler if not already installed*
 
-##### [3]
+##### [4]
 
 ### Checkpoints
 
