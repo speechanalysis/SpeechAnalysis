@@ -22,8 +22,6 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 <sup><a href="#4">Checkpoints</a></sup>
 
-<sup><a href="#5">Credits</a></sup>
-
 [Λήψη εφαρμογής]()
 
 ##### [1]
@@ -233,10 +231,6 @@ audio, δηλαδή, audio = app.AFR();. Επίσης,για να παιχτεί
 ## Checkpoint 4 (6/5/2022)
 
 x
-
-##### [5]
-
-### Credits
 
 ### Github Repository 🗃️
 [Αρχεία Κώδικα](https://github.com/speechanalysis/Speechanalysis/tree/main/code)
