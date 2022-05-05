@@ -24,7 +24,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 <sup><a href="#4">Checkpoints</a></sup>
 
-[Λήψη εφαρμογής]()
+[Λήψη εφαρμογής](https://github.com/speechanalysis/Speechanalysis/archive/refs/heads/main.zip)
 
 ##### [1]
 
