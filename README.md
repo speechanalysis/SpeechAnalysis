@@ -75,15 +75,11 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 ![install5](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/install5.png)
 
-![]()
-
-*
-
-![]()
-
 * Εκκίνηση της εφαρμογής από το Desktop shortcut **speech_io**
 
 ![installfinal](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/installfinal.png)
+
+*Τα διάφορα αρχεία κειμένου & ήχου, είτε **input** είτε **output**, θα βρίσκονται/αποθηκεύονται απευθείας στο Desktop*
 
 ##### [3]
 
