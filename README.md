@@ -64,7 +64,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 * Επιλογή φακέλου speech.io στο Desktop ως location εγκατάστασης της εφαρμογής
 
-![]()
+![install2](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/install2.png)
 
 *
 
