@@ -96,7 +96,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 * Εκκίνηση της εφαρμογής από το Desktop shortcut **speech.io**
 
-![installfinal]()
+![installfinal](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/installfinal.png)
 
 ##### [3]
 
