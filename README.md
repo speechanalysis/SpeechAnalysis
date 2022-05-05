@@ -56,7 +56,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 ### Εγκατάσταση εφαρμογής:
 
-* Λήψη και εξαγωγή περιεχομένου του speech_io.zip στο Desktop
+* Λήψη και εξαγωγή περιεχομένου του speech.io.rar στο Desktop
 
 * Εκκίνηση του MyinstallerApp αρχείου για την έναρξη εγκατάστασης και επιλογή **Next**
 
