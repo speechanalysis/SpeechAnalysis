@@ -234,7 +234,6 @@ audio, δηλαδή, audio = app.AFR();. Επίσης,για να παιχτεί
 
 x
 
-### Github Repository 🗃️
 [Αρχεία Κώδικα](https://github.com/speechanalysis/Speechanalysis/tree/main/code)
 
 [Youtube Video](https://www.youtube.com/watch?v=zhsUfEOhzmw) 📹
