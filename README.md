@@ -17,12 +17,10 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 ## Ενότητες:
 
 <sup><a href="#1">Λειτουργίες</a></sup>
-  
-<sup><a href="#2">Οδηγίες Χρήσης</a></sup>
 
-<sup><a href="#3">Ελάχιστες απαιτήσεις συστήματος</a></sup>
+<sup><a href="#2">Ελάχιστες απαιτήσεις συστήματος</a></sup>
 
-<sup><a href="#4">Checkpoints</a></sup>
+<sup><a href="#3">Checkpoints</a></sup>
 
 [Λήψη εφαρμογής](https://drive.google.com/file/d/1uFH_Bs45B_hl2G5TtFAjPyUVdpYI8Y2S/view?usp=sharing)
 
@@ -42,10 +40,6 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 * Ενσωματωμένο Audio Player για αναπαραγωγή ηχητικών αρχείων και ηχογραφήσεων.
 
-##### [2]
-
-### Οδηγίες Χρήσης 📑
-
 **Λειτουργία Text-To-Speech**:
 
 **Λειτουργία Speech-To-Text**:
@@ -56,7 +50,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 **Audio Player**:
 
-##### [3]
+##### [2]
 
 ### Ελάχιστες απαιτήσεις συστήματος:
 
@@ -72,7 +66,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 *Internet connection required for downloading the Matlab Runtime Compiler if not already installed*
 
-##### [4]
+##### [3]
 
 ### Checkpoints
 
