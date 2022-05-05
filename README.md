@@ -80,7 +80,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 ![installfinal](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/installfinal.png)
 
-⚠️ *Τα διάφορα αρχεία κειμένου & ήχου, είτε **input** είτε **output**, θα βρίσκονται/αποθηκεύονται απευθείας στο Desktop*
+⚠️ *Τα αρχεία κειμένου & ήχου, είτε **input** είτε **output**, θα βρίσκονται/αποθηκεύονται απευθείας στο Desktop*
 
 ##### [3]
 
