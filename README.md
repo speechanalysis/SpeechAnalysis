@@ -58,7 +58,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 **Processor**: SSE2 instruction set support
 
-**Memory**: 1 GB RAM
+**Memory**: 2 GB RAM
 
 **Storage**: 766 MB available space for installation
 
