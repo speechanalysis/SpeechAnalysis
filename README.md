@@ -237,8 +237,7 @@ x
 ### Github Repository 🗃️
 [Αρχεία Κώδικα](https://github.com/speechanalysis/Speechanalysis/tree/main/code)
 
-### Youtube Video 📹
-[in progress]
+[Youtube Video](https://www.youtube.com/watch?v=zhsUfEOhzmw) 📹
 
 ### Βιβλιογραφία 📖
 [Mathworks - Text To Speech](https://www.mathworks.com/matlabcentral/fileexchange/18091-text-to-speech) [1]
