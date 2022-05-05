@@ -38,7 +38,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 * User-friendly σχεδίαση GUI εφαρμογής.
 
-* Ηχογράφηση ομιλίας και αποθήκευση ως wav ή flac αρχείο.
+* Ηχογράφηση ομιλίας και δυνατότητα αποθήκευσης ως wav ή flac αρχείο.
 
 * Ενσωματωμένο Audio Player για αναπαραγωγή ηχητικών αρχείων και ηχογραφήσεων.
 
