@@ -60,7 +60,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 * Εκκίνηση του MyinstallerApp αρχείου για την έναρξη εγκατάστασης και επιλογή **Next**
 
-![install1]()
+![install1](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/install1.png)
 
 * Επιλογή φακέλου speech.io στο Desktop ως location εγκατάστασης της εφαρμογής
 
