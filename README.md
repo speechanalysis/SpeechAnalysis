@@ -265,7 +265,20 @@ audio, δηλαδή, audio = app.AFR();. Επίσης,για να παιχτεί
 
 ## Checkpoint 4 (6/5/2022)
 
-x
+Όσον αφορά το 4ο Παραδοτέο, ερχόμενοι από την ολοκληρωμένη υλοποίηση ενός media player για τα ηχητικά αρχεία που υποστηρίζει η εφαρμογή μας, εστιάσαμε στo compile του συνόλου των λειτουργιών που προσθέσαμε με την πάροδο του μαθήματος σε ένα ολοκληρωμένο Standalone App, να διορθώσουμε τυχόν ατέλειες σε αυτές καθώς και να σχηματίσουμε την τελική μορφή της εφαρμογής, τόσο στο εμφανισιακό(GUI) όσο και στο λειτουργικό κομμάτι.
+
+
+Για το compile σε standalone app, έγινε χρήση του Matlab Runtime Compiler μέσω web, εφόσον πληκτρολογήσαμε την περιγραφή και τα στοιχεία προς εμφάνιση στον installer.
+
+
+Επίσης, έγινε προσθήκη επιλογής αποθήκευσης της ηχογράφησης μέσω Record Button σε wav και flac αρχείο.
+Αυτό γίνεται επειδή η λειτουργία speech to text είναι λειτουργική μόνο με ηχητικά τύπου flac και wav. Για αυτόν τον λόγο βάλαμε και έλεγχο στο speech to text button, σε περίπτωση που ο χρήστης δώσει κάποιο άλλο τύπο ηχητικού αρχείου εκτός από wav και flac, τότε να του εμφανίσει σχετικό μήνυμα που να ειδοποιεί τον χρήστη για το λάθος αρχείο που έδωσε.
+Τέλος, προστέθηκε και έλεγχος στο Upload File που θα κάνει ο χρήστης για να παίξει στο Audio Player να είναι wav ή flac.
+
+Οι έλεγχοι για τα ηχητικά αρχεία έγιναν μέσω της συνάρτησης **[fileparts](https://www.mathworks.com/help/matlab/ref/fileparts.html) [7]** όπου επιστρέφει πληροφορίες για το αρχείο όπως το extension του δηλαδη αν είναι .flac, .wav ή οτιδήποτε αλλά και της συνάρτησης **[strcmpi](https://www.mathworks.com/help/matlab/ref/strcmpi.html)** όπου ελέγχει εάν το extension είναι wav ή flac.
+
+Επιπλέον, καταγράφηκε και ανέβηκε βίντεο στο YouTube με την έναρξη, πρόοδο κωδικοποίησης και τελικό στήσιμο της εφαρμογής μας με σχολιασμό και οπτική επεξήγηση
+
 
 [Αρχεία Κώδικα](https://github.com/speechanalysis/Speechanalysis/tree/main/code)
 
@@ -283,3 +296,5 @@ x
 [Mathworks - audioDeviceWriter](https://www.mathworks.com/help/audio/ref/audiodevicewriter-system-object.html) [5]
 
 [Mathworks - drawnow limitrate](https://www.mathworks.com/help/matlab/ref/drawnow.html) [6]
+
+[Mathworks - fileparts](https://www.mathworks.com/help/matlab/ref/fileparts.html) [7]
