@@ -242,7 +242,7 @@ app.AFR και το flag μας έχει την τιμή true. Ενώ τρέχε
 audio, δηλαδή, audio = app.AFR();. Επίσης,για να παιχτεί το ηχητικό γράφουμε άλλη μια εντολή μέσα στο while, app.ADW(app.VolumeSlider.Value/100 * audio); όπου παίζει 
 το ηχητικό καλώντας το αντικείμενο app.ADW στο οποίο έχουμε εκχωρήσει την τιμή του audioDeviceWriter και δίνουμε σαν όρισμα το audio επί την τιμή του volume δια 100. 
 Βάζουμε δια εκατό επειδή οι τιμές που έχουμε δώσει στον slider είναι “επί τοις εκατό” οπότε πρέπει να γίνει αυτό για να δουλέψει σωστά. Τέλος  για να σιγουρευτούμε ότι 
-το graphic callback θα προσπελαστει γράφουμε την εντολή [drawnow limitrate](https://www.mathworks.com/help/matlab/ref/drawnow.html) στο τέλος της επανάληψης. Αυτό 
+το graphic callback θα προσπελαστει γράφουμε την εντολή **[drawnow limitrate](https://www.mathworks.com/help/matlab/ref/drawnow.html) [6]** στο τέλος της επανάληψης. Αυτό 
 χρειάζεται όταν έχουμε μεγάλες επαναλήψεις - loops και θέλουμε να διακόψουμε την επανάληψη για να προσπελάσουμε το callback κάποιου άλλου graphic αντικειμένου.
 
 **Ο κώδικας του Play/Pause button**
@@ -281,3 +281,5 @@ x
 [Mathworks - dsp.AudioFileReader](https://www.mathworks.com/help/dsp/ref/dsp.audiofilereader-system-object.html) [4]
 
 [Mathworks - audioDeviceWriter](https://www.mathworks.com/help/audio/ref/audiodevicewriter-system-object.html) [5]
+
+[Mathworks - drawnow limitrate](https://www.mathworks.com/help/matlab/ref/drawnow.html) [6]
