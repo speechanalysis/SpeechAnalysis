@@ -58,7 +58,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 * Λήψη και εξαγωγή περιεχομένου του speech.io.rar στο Desktop
 
-* Εκκίνηση του MyinstallerApp αρχείου για την έναρξη εγκατάστασης και επιλογή **Next**
+* Εκκίνηση του MyAppInstaller_web.exe αρχείου για την έναρξη εγκατάστασης και επιλογή **Next**
 
 ![install1](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/install1.png)
 
