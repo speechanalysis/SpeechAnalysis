@@ -24,7 +24,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 <sup><a href="#4">Checkpoints</a></sup>
 
-**[Λήψη εφαρμογής](https://drive.google.com/file/d/1uFH_Bs45B_hl2G5TtFAjPyUVdpYI8Y2S/view?usp=sharing)**
+**[Λήψη εφαρμογής](https://drive.google.com/file/d/15cnLVmiGYnydP3sNeRGq2jUADgUBQy1W/view?usp=sharing)**
 
 ##### [1]
 
