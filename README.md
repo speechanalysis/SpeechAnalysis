@@ -48,6 +48,8 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 **Λειτουργία Speech-To-Text**:
 
+![stt](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/stt.gif)
+
 **Λειτουργία Record**:
 
 ![record](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/record.gif)
