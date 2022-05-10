@@ -54,7 +54,9 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 ![record](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/record.gif)
 
-**Audio Player**:
+**Λειτουργία Audio Player**:
+
+![audioplayerfinal](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/audioplayerfinal.gif)
 
 ##### [2]
 
