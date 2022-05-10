@@ -44,7 +44,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 
 **Λειτουργία Text-To-Speech**:
 
-![tts1](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/tts1.gif)
+![tts1](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/tts.gif)
 
 **Λειτουργία Speech-To-Text**:
 
