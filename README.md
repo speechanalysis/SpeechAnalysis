@@ -294,6 +294,10 @@ audio, δηλαδή, audio = app.AFR();. Επίσης,για να παιχτεί
 Οι έλεγχοι για τα ηχητικά αρχεία έγιναν μέσω της συνάρτησης **[fileparts](https://www.mathworks.com/help/matlab/ref/fileparts.html) [7]** όπου επιστρέφει πληροφορίες 
 για το αρχείο όπως το extension του δηλαδη αν είναι .flac, .wav ή οτιδήποτε αλλά και της συνάρτησης **[strcmpi](https://www.mathworks.com/help/matlab/ref/strcmpi.html)** όπου ελέγχει εάν το extension είναι wav ή flac.
 
+**Τελική μορφή της εφαρμογής:**
+
+![finalform](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/finalform.png)
+
 Επιπλέον, καταγράφηκε και ανέβηκε βίντεο στο YouTube με την έναρξη, πρόοδο κωδικοποίησης και τελικό στήσιμο της εφαρμογής μας με σχολιασμό και οπτική επεξήγηση.
 
 [Checkpoint 4 PDF](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/%CE%A0%CE%91%CE%A1%CE%91%CE%94%CE%9F%CE%A4%CE%95%CE%9F%204.pdf)
