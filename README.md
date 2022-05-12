@@ -1,5 +1,5 @@
 # Speech And Sound Processing Project
-### speech.io
+### speech.io Application
 
 ![logo](https://github.com/speechanalysis/Speechanalysis/blob/main/screenshots/logofinal.png)
 
@@ -108,6 +108,7 @@ _An application for Text-To-Speech and Speech-To-Text conversion_
 - [MATLAB&reg;](http://www.mathworks.com) R2021b or later
 - [Deep Learning Toolbox&trade;](https://www.mathworks.com/products/deep-learning.html)
 - [Audio Toolbox&trade;](https://www.mathworks.com/products/audio.html)
+- [DSP Toolbox](https://www.mathworks.com/products/dsp-system.html)
 
 ##### [4]
 
